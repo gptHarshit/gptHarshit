@@ -49,46 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔵 DevSphere — Developer Networking Platform
-> `MERN` &nbsp; `Socket.io` &nbsp; `AWS EC2` &nbsp; `JWT` &nbsp; `NGINX` &nbsp; `PM2`
-
-[![Backend](https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/Practive_devsphere_backend)
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/DevSphere_Frontend_2)
-
-- 🏗️ Architected a **developer networking platform** with profile discovery & real-time communication.
-- 🔑 Designed **REST APIs with JWT authentication** for secure backend architecture.
-- 💬 Implemented **real-time chat** using Socket.io with event-driven communication.
-- 📋 Built **recommendation system & CRUD profiles**, optimizing MongoDB performance.
-- ☁️ Deployed on **AWS EC2** with NGINX & PM2 for high availability.
-
----
-
-### 📚 E-Learning Management System (LMS)
-> `MERN` &nbsp; `Stripe` &nbsp; `JWT` &nbsp; `Redux Toolkit` &nbsp; `RTK Query`
-
-[![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/LMS_project)
-
-- 🏛️ Designed **scalable LMS architecture** with clean separation of UI, API & business logic.
-- ⚡ Implemented **Redux Toolkit + RTK Query** for API caching, revalidation & reduced redundant calls.
-- 🔒 Engineered **JWT-based role authorization** securing paid content & admin dashboards.
-- 💳 Integrated **Stripe Checkout with webhook handling** for secure payments & enrollment validation.
-- 📊 Built **course progress tracking & analytics** with lecture-level completion persistence.
-
----
-
-### 🎬 NetflixGPT — AI Movie Recommendation Platform
-> `React` &nbsp; `Redux` &nbsp; `Firebase` &nbsp; `OpenAI` &nbsp; `TMDB`
-
-[![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/Netflix-GPT)
-
-- 🤖 Built an **AI-powered recommendation engine** using OpenAI APIs for personalized movie suggestions.
-- 🗂️ Implemented **Redux-based global state management** with predictable data flow.
-- 🚀 Optimized API usage with **client-side caching** & TMDB integration.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -128,6 +88,46 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gptHarshit&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔵 DevSphere — Developer Networking Platform
+> `MERN` &nbsp; `Socket.io` &nbsp; `AWS EC2` &nbsp; `JWT` &nbsp; `NGINX` &nbsp; `PM2`
+
+[![Backend](https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/Practive_devsphere_backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/DevSphere_Frontend_2)
+
+- 🏗️ Architected a **developer networking platform** with profile discovery & real-time communication.
+- 🔑 Designed **REST APIs with JWT authentication** for secure backend architecture.
+- 💬 Implemented **real-time chat** using Socket.io with event-driven communication.
+- 📋 Built **recommendation system & CRUD profiles**, optimizing MongoDB performance.
+- ☁️ Deployed on **AWS EC2** with NGINX & PM2 for high availability.
+
+---
+
+### 📚 E-Learning Management System (LMS)
+> `MERN` &nbsp; `Stripe` &nbsp; `JWT` &nbsp; `Redux Toolkit` &nbsp; `RTK Query`
+
+[![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/LMS_project)
+
+- 🏛️ Designed **scalable LMS architecture** with clean separation of UI, API & business logic.
+- ⚡ Implemented **Redux Toolkit + RTK Query** for API caching, revalidation & reduced redundant calls.
+- 🔒 Engineered **JWT-based role authorization** securing paid content & admin dashboards.
+- 💳 Integrated **Stripe Checkout with webhook handling** for secure payments & enrollment validation.
+- 📊 Built **course progress tracking & analytics** with lecture-level completion persistence.
+
+---
+
+### 🎬 NetflixGPT — AI Movie Recommendation Platform
+> `React` &nbsp; `Redux` &nbsp; `Firebase` &nbsp; `OpenAI` &nbsp; `TMDB`
+
+[![GitHub](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/gptHarshit/Netflix-GPT)
+
+- 🤖 Built an **AI-powered recommendation engine** using OpenAI APIs for personalized movie suggestions.
+- 🗂️ Implemented **Redux-based global state management** with predictable data flow.
+- 🚀 Optimized API usage with **client-side caching** & TMDB integration.
 
 ---
 
